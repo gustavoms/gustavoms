@@ -4,7 +4,7 @@
 
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoms&show_icons=true&theme=dark&locale=en&layout=compact" alt="gustavoms" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoms&show_icons=true&theme=dark&locale=en&layout=compact" alt="gustavoms" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoms&show_icons=true&theme=dark&locale=en" alt="gustavoms" /></p>
 
@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gustavo-mello-schneider-4288a141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-mello-schneider-4288a141" height="30" width="40" /></a>
-<a href="https://fb.com/gustavo.schneider.184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavo.schneider.184" height="30" width="40" /></a>
-<a href="https://instagram.com/gustavoschneider_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavoschneider_" height="30" width="40" /></a>
-<a href="https://medium.com/@gustavoschneider_90048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gustavoschneider_90048" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gustavo-mello-schneider-4288a141" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-mello-schneider-4288a141" height="30" width="40" /></a>
+<a href="https://fb.com/gustavo.schneider.184" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavo.schneider.184" height="30" width="40" /></a>
+<a href="https://instagram.com/gustavoschneider_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavoschneider_" height="30" width="40" /></a>
+<a href="https://medium.com/@gustavoschneider_90048" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gustavoschneider_90048" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
