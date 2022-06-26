@@ -4,11 +4,11 @@
 
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoms&show_icons=true&theme=dark&locale=en&layout=compact" alt="gustavoms" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoms&show_icons=true&theme=dark&locale=pt-BR&layout=compact&card_width=220" alt="gustavoms" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoms&show_icons=true&theme=dark&locale=en" alt="gustavoms" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoms&show_icons=true&theme=dark&locale=pt-BR&card_width=180" alt="gustavoms" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoms&theme=dark" alt="gustavoms" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoms&theme=dark&locale=pt-br" alt="gustavoms" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
