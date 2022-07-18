@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoms&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoms" /> </p>
-<h1 align="center">Olá 👋, meu nome é Gustavo Schneder</h1>
+<h1 align="center">Olá 👋, meu nome é Gustavo Schneider</h1>
 <h3 align="center">Uma pessoa em constante crescimento pessoal e profissional, apaixonado por desenvolvimento de soluções mobile e estudante de novas tecnologias com objetivo de entregar soluções eficientes e escaláveis.</h3>
 
 </br>
