@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/gustavo-mello-schneider-4288a141" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-mello-schneider-4288a141" height="30" width="40" /></a>
 <a href="https://fb.com/gustavo.schneider.184" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavo.schneider.184" height="30" width="40" /></a>
 <a href="https://instagram.com/gustavoschneider_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavoschneider_" height="30" width="40" /></a>
-<a href="https://medium.com/@gustavoschneider_90048" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gustavoschneider_90048" height="30" width="40" /></a>
+<a href="https://medium.com/@gustavosch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gustavosch" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
